@@ -4,6 +4,6 @@ It displays information right in the repo in GitHub
 
 This is my favourite python code:
 
-```
+```python
 print('Hello world!')
 ```
